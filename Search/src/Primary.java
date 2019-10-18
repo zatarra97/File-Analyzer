@@ -46,7 +46,7 @@ public class Primary {
 	}
 	
 	
-	
+	//Funziona che confronta il contenuto dei due file salvato nei due array list
 	private static void confrontaFile(String Path1, String Path2, boolean deleteDouble) {
 		Scanner scan2 = new Scanner (System.in);
 		ArrayList file1 = new ArrayList(); 
@@ -116,7 +116,7 @@ public class Primary {
 	}
 	
 	
-	
+	//Funzione che salva il contenuto del file nell'array list
 private static ArrayList populateArray(String filePath, boolean deleteDouble,int number) {
 	ArrayList array = new ArrayList(); 
 	boolean found = false;
