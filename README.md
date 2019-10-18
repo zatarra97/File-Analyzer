@@ -1,6 +1,6 @@
-#File Analyzer controlla se due file contengono stessi elementi.
+# File Analyzer controlla se due file contengono stessi elementi.
 
-Per utilizzare il programma:
+### Per utilizzare il programma:
 1)Assicurarsi di aver installato Java (Altrimenti scaricarlo e installarlo) e aprire il cmd.
 2)Digitare "java -jar " senza virgolette
 3)Trascinare il File Analyzer all'interno del cmd in modo da ottenere una situazione del genere
